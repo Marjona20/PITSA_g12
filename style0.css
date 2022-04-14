@@ -1,0 +1,177 @@
+.cont{
+	display: flex;
+	justify-content: space-between;
+}
+.imgg{
+	background: url(header_bg.jpg);
+	height: 700px;
+}
+.logo{
+	font-size: 40px;
+	font-weight: 600;
+	color: white;
+	padding-left: 60px;
+	padding-top: 30px;
+}
+.a{
+	text-decoration: none;
+	font-size: 25px;
+	margin: 10px;
+	color: white;
+}
+.nav{
+	padding-top: 30px;
+	padding-right: 60px;
+}
+.cont2{
+	padding-top: 180px;
+	padding-left: 60px;
+}
+.text{
+	font-size: 60px;
+	color: white;
+}
+.text2{
+	padding-top: 10px;
+	font-weight: 700;
+	font-size: 18px;
+	color: white;
+}
+.but{
+	padding-top: 20px;
+}
+.b{
+	font-size: 18px;
+	font-weight: 600;
+	background-color: lightgreen;
+	border-radius: 50px;
+	border: solid white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.item{
+ padding-left: 100px;
+ padding-top: 40px;
+}
+
+
+
+
+.item{
+ padding-left: 100px;
+ padding-top: 40px;
+
+}
+.text3,.text4{
+ 
+ font-size: 20px;
+ line-height: 1.7;
+ color: silver;
+}
+.cont3{
+ display: flex;
+ padding-top: 100px;
+}
+.item2{
+ padding-left: 100px;
+}
+
+.ii{
+	display: flex;
+}
+.fra{
+	padding-top: 15px;
+	font-size: 35px;
+	font-weight: 700;
+	color: silver;
+}
+.cont4{
+	display: flex;
+	padding-top: 40px;
+}
+.p{
+	padding-bottom: 50px; 
+}
+.item3{
+	display: flex;
+	justify-content: space-around;
+	padding-top: 70px;
+}
+.title2{
+	text-align: center;
+}
+.ul{
+	color: silver;
+	font-size: 18px;
+}
+.cost{
+	font-size: 40px;
+	font-weight: 600;
+	padding-bottom: 20px;
+}
+.i{
+	font-size: 40px;
+	font-weight: 600;
+	text-align: center;
+	color: rgb(169,169,169);
+}
+.item5{
+	padding-top: 30px;
+	display: flex;
+	justify-content: space-around;
+}.item6{
+	padding-top: 30px;
+	display: flex;
+	justify-content: space-around;
+}
+.item7{
+	padding-top: 30px;
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 150px;
+}
+.f{
+	display: flex;
+	padding-top: 20px;
+
+}
+.foot{
+	font-size: 40px;
+	font-weight: 600;
+	color: white;
+	padding-left: 30px;
+}
+.num{
+   padding-left: 20px; 
+   color: white;
+   font-size: 40px;
+   padding-left: 600px;
+}
+.c{
+	font-size: 18px;
+	color: white;
+    background-color: red;
+    border-radius: 50px;
+    border: solid black;
+    width: 200px;
+    height: 60px;
+
+
+}
+footer{
+background-color: black;
+padding-bottom: 30px;
+}
+.y{
+	padding-left: 40px;
+
+}
+.th{
+	text-align: center;
+	color: white;
+	padding-top: 30px;
+	font-size: 18px;
+	font-weight: 600;
+}
